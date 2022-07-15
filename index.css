@@ -1,0 +1,30 @@
+h1{
+    color: black;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 60;
+}
+h2{
+   
+    font-size: 40;
+    text-align: center;
+}
+h3 {
+    background-color: palevioletred;
+    size: 35;
+}
+h4{
+    
+    size: 30;
+    text-align: center;
+}
+
+video{
+    background-color: pink
+    ;
+}
+h5
+{
+    font-size: 40;
+    text-align: center;
+}
